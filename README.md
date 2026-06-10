@@ -1,48 +1,46 @@
 # Hi, I'm Anna 👋
 
-I'm based in Tallinn, Estonia, and I'm currently building my career in technology while bringing practical experience from operations, team training, and project execution.
+I'm based in Tallinn, Estonia, and I'm building my career in technology by combining hands-on operational experience with a passion for learning, problem-solving, and continuous improvement.
 
-I enjoy learning new tools, improving processes, organizing information, and turning ideas into real, useful results. My long-term goal is to work on meaningful products, continue learning, and grow in the technology industry.
+My professional background includes team training, operations, customer-facing work, and independently managing creative projects from idea to execution. Today, I'm expanding into AI, digital tools, and technology while building a portfolio of practical work.
 
 ---
 
 ## About Me
 
-📍 Tallinn, Estonia 🇪🇪
+📍 Tallinn, Estonia
 
 🌍 Open to international opportunities
 
-🤖 Exploring AI, technology, and digital tools
+💡 Passionate about technology and continuous learning
 
-📚 Continuously learning and building practical projects
+🤖 Exploring AI and digital tools
 
-💡 Interested in process improvement, documentation, and workflow optimization
+📚 Building practical projects step by step
 
 ---
 
 ## Professional Experience
 
-My background includes experience in:
-
 - Team training and onboarding
-- Customer-facing operations
-- Cross-functional collaboration
+- Customer operations
 - Process documentation
 - Workflow organization
-- Creative project planning and execution
-- Problem solving in fast-paced environments
+- Cross-functional collaboration
+- Creative project execution
+- Fast-paced operational environments
 
 ---
 
 ## Selected Achievements
 
-🏆 Created the winning concept in an internal Europe-wide company burger competition.
+🏆 Developed the winning concept in an internal Europe-wide company burger competition.
 
-🎬 Independently led a Food Safety video project from initial concept and scripting through filming and final editing.
+🎬 Led the complete production of a Food Safety project from initial concept to filming and final editing.
 
-👥 Trained and supported new team members, helping them adapt to operational standards and daily workflows.
+👥 Trained and supported new team members, helping them adapt to operational standards and day-to-day workflows.
 
-📋 Contributed to improving internal processes through communication, organization, and practical problem-solving.
+📋 Contributed to process improvements through clear communication, organization, and practical problem-solving.
 
 ---
 
@@ -59,22 +57,20 @@ My background includes experience in:
 
 ## What You'll Find Here
 
-This GitHub profile documents my learning journey and practical projects.
+This profile is a record of my learning journey and practical work.
 
-Here you'll find:
+Projects will focus on:
 
-- Portfolio projects
-- Documentation examples
-- Learning notes
+- Documentation
 - AI experiments
-- Process improvement ideas
-- Technology-related projects
-
-Every project represents another step in continuous learning and practical development.
+- Process improvement
+- Learning notes
+- Portfolio projects
+- Practical technology solutions
 
 ---
 
-## Connect With Me
+## Connect
 
 💼 LinkedIn  
 https://www.linkedin.com/in/anna-ignashova-6477a4201/
@@ -82,9 +78,8 @@ https://www.linkedin.com/in/anna-ignashova-6477a4201/
 🐙 GitHub  
 https://github.com/annaignashova
 
+💬 Telegram  
+https://t.me/aannanaz
+
 📧 Email  
 anna.ignashova01@gmail.com
-
----
-
-Thanks for stopping by! 👋
