@@ -1,85 +1,93 @@
-# Hi, I'm Anna 👋
-
-I'm based in Tallinn, Estonia, and I'm building my career in technology by combining hands-on operational experience with a passion for learning, problem-solving, and continuous improvement.
-
-My professional background includes team training, operations, customer-facing work, and independently managing creative projects from idea to execution. Today, I'm expanding into AI, digital tools, and technology while building a portfolio of practical work.
-
----
+# Hi, I'm Anna Ignashova 👋
 
 ## About Me
 
-📍 Tallinn, Estonia
+I'm based in Tallinn, Estonia and I'm currently building my career in technology.
 
-🌍 Open to international opportunities
+My background includes team training, operations, process organization, documentation, and creating practical solutions for everyday challenges. I enjoy learning quickly, improving workflows, and exploring how AI can make work more efficient.
 
-💡 Passionate about technology and continuous learning
-
-🤖 Exploring AI and digital tools
-
-📚 Building practical projects step by step
+I'm especially interested in artificial intelligence, automation, productivity systems, and modern digital tools.
 
 ---
 
-## Professional Experience
+## What I'm Learning
 
-- Team training and onboarding
-- Customer operations
-- Process documentation
-- Workflow organization
-- Cross-functional collaboration
-- Creative project execution
-- Fast-paced operational environments
+- Artificial Intelligence
+- Prompt Engineering
+- Cursor IDE
+- Git & GitHub
+- AI-assisted workflows
+- Process Documentation
+- Workflow Optimization
+- Automation Concepts
 
 ---
 
-## Selected Achievements
+## Skills
 
-🏆 Developed the winning concept in an internal Europe-wide company burger competition.
+### Digital Tools
 
-🎬 Led the complete production of a Food Safety project from initial concept to filming and final editing.
+- ChatGPT
+- Cursor
+- GitHub
+- Microsoft Excel
+- Microsoft PowerPoint
+- Canva
+- Adobe Photoshop
+- CapCut
 
-👥 Trained and supported new team members, helping them adapt to operational standards and day-to-day workflows.
+### Practical Skills
 
-📋 Contributed to process improvements through clear communication, organization, and practical problem-solving.
+- Documentation
+- Process organization
+- Team training
+- Instruction writing
+- Workflow improvement
+- Video scripting
+- Video editing
+- Photography
+- Information organization
 
 ---
 
 ## Current Focus
 
-- Artificial Intelligence
-- Git & GitHub
-- Digital Tools
-- Documentation
-- Process Improvement
-- Technology Fundamentals
+My current goal is to build practical projects that demonstrate real skills instead of simply collecting theoretical knowledge.
+
+I'm documenting my learning journey and gradually expanding this repository with experiments, notes, and case studies.
 
 ---
 
-## What You'll Find Here
+## Repository Roadmap
 
-This profile is a record of my learning journey and practical work.
+Planned additions include:
 
-Projects will focus on:
-
-- Documentation
 - AI experiments
-- Process improvement
+- Prompt engineering examples
+- Workflow optimization case studies
+- Documentation examples
 - Learning notes
-- Portfolio projects
-- Practical technology solutions
+- Productivity systems
+- Small automation projects
+- Practical portfolio projects
 
 ---
 
-## Connect
+## Philosophy
 
-💼 LinkedIn  
+I believe that curiosity, consistency, and practical experience are more valuable than memorizing information.
+
+My objective is to continuously learn, build, improve, and solve real-world problems with technology.
+
+---
+
+## Contact
+
+LinkedIn:
 https://www.linkedin.com/in/anna-ignashova-6477a4201/
 
-🐙 GitHub  
-https://github.com/annaignashova
-
-💬 Telegram  
-https://t.me/aannanaz
-
-📧 Email  
+Email:
 anna.ignashova01@gmail.com
+
+Telegram:
+@aannanaz
